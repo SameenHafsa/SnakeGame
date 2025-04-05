@@ -10,7 +10,7 @@ ADD
 🛠️ Features
 --
 
-            🎲 Interactive animations.
+            Interactive animations.
 
             📱 Clean and responsive UI design.
 
